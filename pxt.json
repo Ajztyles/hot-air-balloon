@@ -18,7 +18,7 @@
         "branch": "v1.2.6",
         "tag": "v1.2.6",
         "commits": "https://github.com/microsoft/pxt-arcade/commits/7f343e1ba30a4c31de6b7b14d288d34b2741b2f4",
-        "target": "1.12.35",
+        "target": "1.12.39",
         "pxt": "6.2.21",
         "targetId": "arcade"
     },
